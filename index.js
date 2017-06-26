@@ -64,9 +64,3 @@ app.post('/api/update/location', function(req, res){
 	});
 });
 
-
-app.listen(function(){
-    console.log('funcionando');
-})
-
-
